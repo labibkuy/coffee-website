@@ -1,5 +1,5 @@
 body {
-    background-image: url('../../public/coffee-background.jpeg');
+    background-image: url('.../src/coffee-background.jpeg');
     background-size: cover;
     background-position: center;
     font-family: 'Segoe UI', Arial, sans-serif;
