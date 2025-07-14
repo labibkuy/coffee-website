@@ -1,0 +1,19 @@
+{
+  "name": "coffee-website",
+  "version": "1.0.0",
+  "description": "Aesthetic coffee-themed website with a purchase button and coffee information.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "keywords": [
+    "coffee",
+    "website",
+    "aesthetic"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
